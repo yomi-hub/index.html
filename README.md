@@ -85,7 +85,8 @@
 ‎<div class="section">
 ‎<h3>النموذج الصوتي الأول</h3>
 ‎<audio controls>
-‎<source src="https://drive.google.com/uc?export=download&id=1Vv95CVh3GTcP8stP_L5J714Aqu9yVtM7" type="audio/mpeg">
+‎<source src="https://drive.google.com/uc?export=download&id=1Vv95CVh3GTcP8stP_L5J714Aqu9yVtM7"
+type="audio/mpeg">
 ‎</audio>
 ‎</div>
 ‎
